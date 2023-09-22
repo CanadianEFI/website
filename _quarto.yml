@@ -9,8 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: subscribe.html
-        text: Subscribe
+      - subscribe.qmd
 
 format:
   html:

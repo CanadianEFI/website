@@ -1,0 +1,33 @@
+---
+title: "Subscribe"
+subtitle: "& join the CEFI mailing list"
+title-block-banner: _assets/subscribe-banner-crop.jpg
+backgroundcolor: rgb(245, 245, 245)
+---
+
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    color: #000000; 
+    text-align: center;
+  }
+</style>
+
+<div class=form-container>
+<form accept-charset="utf-8" action="https://formspree.io/f/meqbrppw" method="post">
+          <label for="first-name">First Name:</label>
+          <input type="text" name="name" id="first-name" placeholder="First Name" required="">
+          <br>
+            <label for="last-name">Last Name:</label>
+          <input type="text" name="name" id="last-name" placeholder="Last Name" required="">
+          <br>
+            <label for="institution">Institution:</label>
+          <input type="text" name="name" id="institution" placeholder="Institution" required="True">
+          <br>
+          <label for="email">Email:</label>
+          <input type="email" name="_replyto" id="email" placeholder="email@domain.com" required="">
+          <br>
+        <input class=btn type="submit" value="Submit">
+      </form>
+</div>
+  
