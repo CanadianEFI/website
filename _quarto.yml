@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CEFI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: subscribe.html
+        text: Subscribe
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 800px

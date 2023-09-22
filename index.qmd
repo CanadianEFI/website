@@ -1,0 +1,63 @@
+---
+title: "Canadian Ecological<br/>Forecasting Initiative"
+subtitle: "Connecting researchers for predicting in the Anthropocene"
+title-block-banner: _assets/home-banner-crop.jpg
+backgroundcolor: rgb(245, 245, 245)
+---
+
+<div class=content-center>
+
+# Welcome to **CEFI**
+We are a grassroots organization on a mission to build capacity in Canada for generating ecological and epidemiological forecasts aimed at informing decisions. We strive to create and maintain a positive and supportive network of people across academia, industry, NGOs and government who have the common goals to advance basic science, increase data sharing, and improve how we model in an uncertain future.
+
+<button class=btn onclick="location.href='#'">Learn More</button>
+
+<br/>
+
+# A Chapter of the Ecological Forecasting Initiative
+
+<div class=container-image-text
+style='align-items: center;'>
+
+  <img src='_assets/EFI-logo.png'
+  style='float: right; height: 250px; margin-right: 4rem; margin-top: 1rem;'>
+
+  <div style='float: bottom;'>
+  **CEFI** is the very first chapter of the Ecological Forecasting Initiative. Go check them out for information on working groups, workshops, educational tools and other resources related to ecological forecasting.
+
+  <button class=btn onclick="location.href='https://ecoforecast.org/'">Visit EFI</button>
+  </div>
+</div>
+
+</div>
+
+<br/>
+
+<div class="andrew">
+  <img src="_assets\IMG_29965_edit_crop.jpg" style="width:100% !important;">
+  <div class="centered">
+  
+  <h1 style="font-size: 2rem;
+  padding-top: 0;">
+  Let's Connect
+  </h1>
+  <p>To be in the loop for future events and opportunities at the Canadian Ecological Forecasting Initiative, join us on Slack and subscribe to our newsletter.</p>
+
+  <button class=btn onclick="location.href='#'">Subscribe</button>
+  <button class=btn onclick="location.href='https://join.slack.com/t/cefiworkspace/shared_invite/zt-1e82pfie8-dYcmHzMMvXBnT~NKhs0i~g'">Join Slack</button>
+  
+  </div>
+</div>
+
+<br/>
+
+<div class=content-right>
+
+We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed throughout the website!
+
+</div>
+
+
+
+</div>
+</html>

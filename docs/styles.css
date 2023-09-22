@@ -1,0 +1,92 @@
+/* css styles */
+
+@font-face {
+    font-family: 'Varela';
+    font-weight: 400;
+    src: url('./_assets/fonts/varelaround-regular-webfont.woff2') format('woff2'),
+      url('./_assets/fonts/varelaround-regular-webfont.woff') format('woff');
+  }
+
+:root {
+    --fs-400: 0.99rem;
+}
+
+.body{
+    font-family: 'Varela';
+    font-size: var(--fs-400);
+    font-weight: 400;
+    .page-columns{
+    grid-template-columns: minmax(500px, calc( 1050px - 3em )) !important;
+  }
+}
+  
+  .quarto-title-banner {
+    height: 550px;
+    padding-left: 1.5rem;
+    color: #ffffff; 
+    text-align: right;
+    align-items: center;
+    margin-bottom: 0;
+    font-family: 'Varela';
+  }
+  
+  .content-center{
+    text-align: center;
+    font-family: 'Varela';
+  }
+  
+  .container-image-text{
+    display: flex;
+    position: relative;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    font-family: 'Varela';
+  }
+  
+  .content-right{
+    text-align: right;
+    font-family: 'Varela';
+  }
+  
+  .container-background{
+    background-image: url("_assets\IMG_29965_edit.jpg");
+    background-color: #cccccc;
+  }
+  
+  /* Container holding the image and the text */
+  .andrew {
+    position: relative;
+    text-align: center;
+    margin-top: 2rem;
+    font-family: 'Varela';
+  }
+  
+  /* Bottom left text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    right: 70%;
+    transform: translate(+55%, -50%);
+    margin-bottom: 0;
+    padding: 0 1rem 1rem 1rem;
+    background-color: #ffffff70;
+    min-width: 55vh;
+    font-family: 'Varela';
+    border-radius: 20px;
+  }
+  
+  .btn {
+    border-radius: 40px;
+    background-color: lightgrey;
+    border: none;
+    outline: black;
+    padding: 0.25rem 1.5rem 0.25rem 1.5rem;
+    overflow: hidden;
+    margin: 0 0.5rem 0 0.5rem;
+    font-family: 'Varela';
+  }
+  .btn:hover{
+    background-color: darkgrey;
+    color: white;
+    font-family: 'Varela';
+  }
