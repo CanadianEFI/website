@@ -23,11 +23,13 @@
 .quarto-title-banner {
   height: 550px;
   padding-left: 1.5rem;
+  padding-bottom: 2rem;
   color: #ffffff; 
   text-align: right;
   align-items: center;
   margin-bottom: 0;
   font-family: 'Varela';
+  background-position: bottom;
 }
   
 .content-center{
