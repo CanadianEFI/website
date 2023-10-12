@@ -141,10 +141,31 @@ background-size: cover;
     color: #000000; 
     text-align: center;
   }
+
+  label {
+    padding-right: 6px;
+    padding-bottom: 12px;
+  }
+
+  input {
+    border: 1px solid #ccc;
+    padding-left: 6px;
+    padding-top: 3px;
+    border-radius: 3px;
+  }
+
+  input:focus {
+    outline: 1px solid #000;
+  }
+
+  .btn {
+    margin: 0 0.5rem 0 0;
+  }
+
 </style>
 <div class="form-container">
 <form accept-charset="utf-8" action="https://formspree.io/f/meqbrppw" method="post">
-<label for="first-name">First Name:</label> <input type="text" name="name" id="first-name" placeholder="First Name" required=""> <br> <label for="last-name">Last Name:</label> <input type="text" name="name" id="last-name" placeholder="Last Name" required=""> <br> <label for="institution">Institution:</label> <input type="text" name="name" id="institution" placeholder="Institution" required="True"> <br> <label for="email">Email:</label> <input type="email" name="_replyto" id="email" placeholder="email@domain.com" required=""> <br> <input class="btn" type="submit" value="Submit">
+<label for="first-name">First Name:</label> <input type="text" name="name" id="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="name" id="last-name" required="True"> <br> <label for="institution">Institution:</label> <input type="text" name="name" id="institution" required=""> <br> <label for="email">Email:</label> <input type="email" name="_replyto" id="email" required="True"> <br> <input class="btn" type="submit" value="Submit">
 </form>
 </div>
 
@@ -385,6 +406,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Canadian Ecological Forecasting Initiative</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/CanadianEFI">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
 
 
 
