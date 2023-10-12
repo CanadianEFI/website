@@ -91,7 +91,6 @@
     font-family: 'Varela';
   }
 
-  .form-container{
-    font-family: 'Varela';
-
-  }
+.nav-link:hover{
+  color: black;
+}
