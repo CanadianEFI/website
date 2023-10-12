@@ -10,6 +10,11 @@ website:
         text: Home
       - about.qmd
       - subscribe.qmd
+  page-footer:
+    left: "Canadian Ecological Forecasting Initiative" 
+    right: 
+      - icon: github
+        href: https://github.com/CanadianEFI
 
 format:
   html:
@@ -19,3 +24,4 @@ format:
     page-layout: full
     grid:
       body-width: 800px
+
