@@ -45,11 +45,17 @@
   font-family: 'Varela';
 }
   
-  .content-right{
-    text-align: right;
-    font-family: 'Varela';
-  }
-  
+.content-right{
+  text-align: right;
+  font-family: 'Varela';
+}
+
+.content-left{
+  text-align: left;
+  font-family: 'Varela';
+  margin-top: 0;
+}
+
   .container-background{
     background-image: url("_assets\IMG_29965_edit.jpg");
     background-color: #cccccc;
