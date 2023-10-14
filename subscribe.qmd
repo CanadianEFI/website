@@ -1,6 +1,5 @@
 ---
 title: "Subscribe"
-subtitle: "& join the CEFI mailing list"
 title-block-banner: _assets/subscribe-banner-crop.jpg
 backgroundcolor: rgb(245, 245, 245)
 ---
@@ -32,7 +31,18 @@ backgroundcolor: rgb(245, 245, 245)
     margin: 0 0.5rem 0 0;
   }
 
+  h1, .h1 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+
 </style>
+
+<div class=content-left>
+
+# Join the CEFI mailing list
+
+</div>
 
 <div class=form-container>
 <form accept-charset="utf-8" action="https://formspree.io/f/meqbrppw" method="post">
