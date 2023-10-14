@@ -34,6 +34,7 @@ backgroundcolor: rgb(245, 245, 245)
   h1, .h1 {
     margin-top: 1rem;
     margin-bottom: 2rem;
+    font-family: 'Varela';
   }
 
 </style>
