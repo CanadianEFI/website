@@ -49,16 +49,16 @@ permalink: subscribe
 <div class=form-container>
 <form id="FORM_ID" method="POST" action="https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec">
   <label for="first-name">First Name:</label>
-          <input type="text" name="name" id="first-name" required="True">
+          <input type="text" name="first-name" id="first-name" required="True">
           <br>
             <label for="last-name">Last Name:</label>
-          <input type="text" name="name" id="last-name" required="True">
+          <input type="text" name="last-name" id="last-name" required="True">
           <br>
             <label for="institution">Institution:</label>
-          <input type="text" name="name" id="institution" required="">
+          <input type="text" name="institution" id="institution" required="">
           <br>
           <label for="email">Email:</label>
-          <input type="email" name="_replyto" id="email" required="True">
+          <input type="email" name="email" id="email" required="True">
           <br>
         <input class=btn type="submit" value="Submit">
 </form>
