@@ -168,14 +168,31 @@ background-size: cover;
 <h1>Join the CEFI mailing list</h1>
 </section>
 <div class="form-container">
-<form accept-charset="utf-8" action="https://formspree.io/f/meqbrppw" method="post">
+<form id="FORM_ID" method="POST" action="https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec">
 <label for="first-name">First Name:</label> <input type="text" name="name" id="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="name" id="last-name" required="True"> <br> <label for="institution">Institution:</label> <input type="text" name="name" id="institution" required=""> <br> <label for="email">Email:</label> <input type="email" name="_replyto" id="email" required="True"> <br> <input class="btn" type="submit" value="Submit">
 </form>
-</div>
+<div class="form-container">
+
+<script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", function() {
+        const yourForm = document.getElementById('FORM_ID');
+        yourForm.addEventListener("submit", function(e) {
+            e.preventDefault();
+            const data = new FormData(yourForm);
+            const action = e.target.action;
+            fetch(action, {
+                method: 'POST',
+                body: data,
+            }).then(() => {
+                window.location.replace('https://canadianefi.github.io/website/')
+            })
+        })
+    }); 
+</script>
 
 
 
-</main> <!-- /main -->
+</div></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
