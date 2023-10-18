@@ -1,0 +1,10 @@
+
+<div class=content-center>
+
+<br>
+<br>
+
+# Thanks for subscribing
+Check your email for a confirmation message
+
+</div>
