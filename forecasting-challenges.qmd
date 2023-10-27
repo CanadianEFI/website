@@ -86,15 +86,6 @@ Subscribe below if you are interested in joining the conversation and contributi
           <br>
         <input class=btn type="submit" value="Submit">
 </form>
-<div class=form-container>
-
-<br>
-<br>
-
-<div class=content-right>
-
-Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page!
-
 </div>
 
 <script>
@@ -125,4 +116,13 @@ Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma 
         })
     }); 
 </script>
+
+<br>
+<br>
+
+<div class=content-right>
+
+Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page!
+
+</div>
 
