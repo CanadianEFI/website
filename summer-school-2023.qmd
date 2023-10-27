@@ -1,0 +1,81 @@
+---
+title: "CEFI Summer School 2023"
+title-block-banner: _assets/summer-school-2023-banner.jpg
+backgroundcolor: rgb(245, 245, 245)
+---
+
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    text-align: center;
+  }
+</style>
+
+<div class=content-center>
+<h1 style="font-size: calc(1.5rem + 0.30vw); padding-bottom: 0;">
+Forecasting for decision-making:<br>
+an epidemiological & ecological perspective
+</h1>
+July 24 - 28, 2023 - <a href="http://www.fields.utoronto.ca/activities/23-24/forecasting" target="_blank">The Fields Institute</a>
+</div>
+
+<div class=content-left>
+<br>
+The **2023 CEFI Summer School** was a 5-day short course on building decision-relevant forecasts. 
+
+**Lectures** topics and hands-on exercises covered:
+<ul>
+<li>Producing reproducible forecasts</li>
+<li>Forecasting with static vs. dynamic models</li>
+<li>Understanding and propagating uncertainties</li>
+<li>Incorporating decision-making priorities into forecasts</li>
+<li>Engaging with a lens of data sovereignty and data justice</li>
+<li>Strategies for effective communication</li>
+</ul>
+
+Participants also worked together on **group projects**, developing a forecasting model and learning to troubleshoot, iterate, and refine their models. Group projects focused on three case-studies: infectious disease control, fisheries management, or water quality monitoring. 
+
+The course concluded with group presentations on the models and forecasts developed during the week.
+
+</div>
+
+<div class="content-center">
+
+<br> 
+<a href="https://youtube.com/playlist?list=PLmpgJtGjCb06k0MMg6WFPbVIQq01O0K5X&si=VhCaBp1H4-AksiMK" target="_blank">
+<button class=btn>Recorded lectures</button></a>
+<a href="https://github.com/CanadianEFI/shortcourse-2023" target="_blank">
+<button class=btn>Course materials</button></a>
+
+<br>
+<br>
+
+<p style="font-size: calc(1.25rem + 0.30vw); font-weight: 600;">
+We are grateful to our partners for funding & support
+</p>
+
+<div class="gallery">
+<div class="four-image-gallery">
+<a href="https://canmod.net/" target="_blank">
+<img src="_assets\canmod-logo.png" style="width: 100%">
+</a>
+</div>
+<div class="four-image-gallery">
+<a href="https://ecoforecast.org/" target="_blank"><img src="_assets\EFI-logo.png" style="width: 100%"></a>
+</div>
+<div class="four-image-gallery">
+<a href="http://www.fields.utoronto.ca" target="_blank"><img src="_assets\fields-logo.png" style="width: 100%"></a>
+</div>
+<div class="four-image-gallery">
+<a href="https://apexrms.com/" target="_blank"><img src="_assets\apexrms-logo.png" style="width: 100%"></a>
+</div>
+</div>
+<a href="https://datasciences.utoronto.ca/" target="_blank"><img src="_assets\dsi-logo.png"  style="width: 95%; padding-top: 12px;"></a>
+</div>
+
+<br>
+<br>
+
+<div class=content-right>
+Thanks <a href="https://www.pexels.com/photo/lake-ontario-in-canada-13653630/" target="_blank">Mateusz Walendzik</a> for the beautiful photo displayed on this page!
+</div>
