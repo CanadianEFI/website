@@ -8,7 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - forecasting-challenges.qmd
       - subscribe.qmd
+      - text: Past events 
+        menu:
+        - summer-school-2023.qmd 
+
+
   page-footer:
     left: "Canadian Ecological Forecasting Initiative" 
     right: 
@@ -17,10 +23,10 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: [simplex, custom.scss]
     css: styles.css
     toc: false
     page-layout: full
     grid:
       body-width: 800px
-
+    

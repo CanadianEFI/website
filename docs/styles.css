@@ -1,5 +1,9 @@
 /* css styles */
 
+
+
+/* fonts */
+
 @font-face {
     font-family: 'Varela';
     font-weight: 400;
@@ -19,32 +23,32 @@
     grid-template-columns: minmax(500px, calc( 1050px - 3em )) !important;
   }
 }
-  
+
+
+
+/* banner */
+
 .quarto-title-banner {
   height: 550px;
   padding-left: 1.5rem;
   padding-bottom: 2rem;
-  color: #ffffff; 
+  color: #fefefe; 
   text-align: right;
   align-items: center;
   margin-bottom: 0;
   font-family: 'Varela';
   background-position: bottom;
 }
-  
-.content-center{
+
+
+
+/* containers */
+
+.content-center {
   text-align: center;
    font-family: 'Varela';
 }
-  
-.container-image-text{
-  display: flex;
-  position: relative;
-  padding-right: 4rem;
-  padding-left: 4rem;
-  font-family: 'Varela';
-}
-  
+
 .content-right{
   text-align: right;
   font-family: 'Varela';
@@ -56,49 +60,123 @@
   margin-top: 0;
 }
 
-  .container-background{
-    background-image: url("_assets\IMG_29965_edit.jpg");
-    background-color: #cccccc;
-  }
+.container-image-text{
+  display: flex;
+  position: relative;
+  padding-right: 4rem;
+  padding-left: 4rem;
+  font-family: 'Varela';
+}
+
+.container-background{
+  background-image: url("_assets\IMG_29965_edit.jpg");
+  background-color: #cccccc;
+}
+
+.container-text-on-image {
+  position: relative;
+  text-align: center;
+  margin-top: 2rem;
+  font-family: 'Varela';
+}
   
-  /* Container holding the image and the text */
-  .andrew {
-    position: relative;
-    text-align: center;
-    margin-top: 2rem;
-    font-family: 'Varela';
-  }
-  
-  /* Bottom left text */
-  .centered {
-    position: absolute;
-    top: 50%;
-    right: 70%;
-    transform: translate(+55%, -50%);
-    margin-bottom: 0;
-    padding: 0 1rem 1rem 1rem;
-    background-color: #ffffff70;
-    min-width: 55vh;
-    font-family: 'Varela';
-    border-radius: 20px;
-  }
-  
-  .btn {
+.container-poster {
+  position: absolute;
+  top: 50%;
+  right: 70%;
+  transform: translate(+55%, -50%);
+  margin-bottom: 0;
+  padding: 0 1rem 1rem 1rem;
+  background-color: #ffffff70;
+  min-width: 55vh;
+  font-family: 'Varela';
+  border-radius: 20px;
+}
+
+
+
+/* elements */
+
+.btn {
     border-radius: 40px;
     background-color: lightgrey;
     border: none;
     outline: black;
     padding: 0.25rem 1.5rem 0.25rem 1.5rem;
     overflow: hidden;
-    margin: 0 0.5rem 0 0.5rem;
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
     font-family: 'Varela';
-  }
-  .btn:hover{
-    background-color: darkgrey;
-    color: white;
-    font-family: 'Varela';
-  }
+}
 
-.nav-link:hover{
-  color: black;
+.btn:hover{
+  background-color: darkgrey;
+  color: white;
+  font-family: 'Varela';
+}
+
+
+
+/* images */
+
+.gallery {
+  display: flex;
+  padding-top: 24px;
+}
+
+.four-image-gallery {
+  flex: 25%;
+  padding-right: 24px;
+}
+
+
+
+/* forms */
+
+label {
+  padding-right: 6px;
+  padding-bottom: 12px;
+}
+
+input {
+  border: 1px solid #ccc;
+  padding-left: 6px;
+  padding-top: 3px;
+  border-radius: 3px;
+}
+
+input:focus {
+  outline: 1px solid #000;
+}
+
+
+
+/* smaller screen optimization */
+
+@media (max-width: 900px) {
+  .quarto-title-banner {
+    height: 400px;
+    padding-top: 10rem;
+  }
+  p.subtitle {
+    display: none;
+  }
+  .container-image-text{
+    flex-direction: column;
+  }
+  .container-poster {
+    right: 50% !important;
+    transform: translate(+50%, -50%) !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .conditional-image {
+    display: none;
+  }
+  .container-text-on-image {
+    height: 280px;
+  }
+  .container-poster {
+    min-width: 100% !important;
+  }
 }
