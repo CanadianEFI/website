@@ -6,6 +6,14 @@ backgroundcolor: rgb(245, 245, 245)
 permalink: home
 ---
 
+<style>
+  @media (max-width: 900px) {
+  .quarto-title-banner {
+    height: 400px;
+    padding-top: 10rem;
+  }
+</style>
+
 <div class=content-center>
 
 # Welcome to **CEFI**

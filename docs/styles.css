@@ -153,10 +153,6 @@ input:focus {
 /* smaller screen optimization */
 
 @media (max-width: 900px) {
-  .quarto-title-banner {
-    height: 400px;
-    padding-top: 10rem;
-  }
   p.subtitle {
     display: none;
   }
