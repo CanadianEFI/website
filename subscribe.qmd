@@ -72,7 +72,7 @@ permalink: subscribe
                 method: 'POST',
                 body: data,
             }).then(() => {
-                window.location.replace('https://canadianefi.github.io/website/')
+                window.location.replace('https://canadianefi.ca/thank-you')
             })
         })
     }); 

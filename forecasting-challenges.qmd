@@ -111,7 +111,7 @@ Subscribe below if you are interested in joining the conversation and contributi
                 method: 'POST',
                 body: data,
             }).then(() => {
-                window.location.replace('https://canadianefi.github.io/website/')
+                window.location.replace('https://canadianefi.ca/thank-you')
             })
         })
     }); 

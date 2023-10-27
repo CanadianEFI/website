@@ -193,13 +193,8 @@ background-size: cover;
 </div>
 <div class="form-container">
 <form name="FORM_ForecastingChallenges" id="FORM_ForecastingChallenges">
-<br> <label for="first-name">First Name:</label> <input type="text" name="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="last-name" required="True"> <br> <label for="affiliation">Affiliation:</label> <input type="text" name="affiliation" required=""> <br> <label for="email">Email:</label> <input type="email" name="email" required="True"> <br> <br> <label>I’m subscribing for updates on:</label> <br> <input type="checkbox" name="setting-up"> <label for="setting-up">Setting up forecasting challenges.</label> <br> <input type="checkbox" name="participating"> <label for="participating">The launch of forecasting challenges.</label> <br> <br> <input class="btn" type="submit" value="Submit">
+<br> <label for="first-name">First Name:</label> <input type="text" name="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="last-name" required="True"> <br> <label for="institution">Affiliation:</label> <input type="text" name="institution" required=""> <br> <label for="email">Email:</label> <input type="email" name="email" required="True"> <br> <br> <label>I’m subscribing for updates on:</label> <br> <input type="checkbox" name="setting-up"> <label for="setting-up">Setting up forecasting challenges.</label> <br> <input type="checkbox" name="participating"> <label for="participating">The launch of forecasting challenges.</label> <br> <br> <input class="btn" type="submit" value="Submit">
 </form>
-<div class="form-container">
-
-<p><br> <br></p>
-<div class="content-right">
-<p>Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page!</p>
 </div>
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycbzp2oYeLQjyN1pkrVcjsWEy9R7ujHU9JSMseYRfyzRWCG031r3Zw0rs_KRWvVkbFSJ6XQ/exec'
@@ -223,15 +218,19 @@ background-size: cover;
                 method: 'POST',
                 body: data,
             }).then(() => {
-                window.location.replace('https://canadianefi.github.io/website/')
+                window.location.replace('https://canadianefi.ca/thank-you')
             })
         })
     }); 
 </script>
+<p><br> <br></p>
+<div class="content-right">
+<p>Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page!</p>
+</div>
 
 
 
-</div></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

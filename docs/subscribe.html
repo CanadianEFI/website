@@ -171,8 +171,7 @@ background-size: cover;
 <form name="FORM_ID" id="FORM_ID">
 <label for="first-name">First Name:</label> <input type="text" name="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="last-name" required="True"> <br> <label for="institution">Institution:</label> <input type="text" name="institution" required=""> <br> <label for="email">Email:</label> <input type="email" name="email" required="True"> <br> <input class="btn" type="submit" value="Submit">
 </form>
-<div class="form-container">
-
+</div>
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec'
   const form = document.forms['FORM_ID']
@@ -195,7 +194,7 @@ background-size: cover;
                 method: 'POST',
                 body: data,
             }).then(() => {
-                window.location.replace('https://canadianefi.github.io/website/')
+                window.location.replace('https://canadianefi.ca/thank-you')
             })
         })
     }); 
@@ -203,7 +202,7 @@ background-size: cover;
 
 
 
-</div></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

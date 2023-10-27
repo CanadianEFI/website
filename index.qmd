@@ -43,7 +43,7 @@ style='align-items: center;'>
   <p>To be in the loop for future events and opportunities at the Canadian Ecological Forecasting Initiative, join us on Slack and subscribe to our newsletter.</p>
 
   <a href="https://join.slack.com/t/cefiworkspace/shared_invite/zt-1e82pfie8-dYcmHzMMvXBnT~NKhs0i~g" target="_blank"><button class=btn>Join Slack</button></a>
-  <a href="./subscribe"><button class=btn>Subscribe</button></a>
+  <a href="https://canadianefi.ca/subscribe"><button class=btn>Subscribe</button></a>
   
   </div>
 </div>
