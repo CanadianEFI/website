@@ -19,12 +19,12 @@ We are a grassroots organization on a mission to build capacity in Canada for ge
 style='align-items: center;'>
 
   <img src='_assets/EFI-logo.png'
-  style='float: right; height: 250px; margin-right: 4rem; margin-top: 1rem;'>
+  style='float: right; height: 250px; margin: 1rem;'>
 
   <div style='float: bottom;'>
   **CEFI** is the very first chapter of the Ecological Forecasting Initiative. Go check them out for information on working groups, workshops, educational tools and other resources related to ecological forecasting.
 
-  <button class=btn onclick="location.href='https://ecoforecast.org/'">Visit EFI</button>
+  <a href="https://ecoforecast.org/" target="_blank"><button class=btn>Visit EFI</button></a>
   </div>
 </div>
 
@@ -32,31 +32,30 @@ style='align-items: center;'>
 
 <br/>
 
-<div class="andrew">
-  <img src="_assets\IMG_29965_edit_crop.jpg" style="width:100% !important;">
-  <div class="centered">
+<div class="container-text-on-image">
+  <img class="conditional-image" src="_assets\IMG_29965_edit_crop.jpg" style="width:100% !important;">
+  <div class="container-poster">
   
-  <h1 style="font-size: 2rem;
+  <h1 style="font-size: calc(1.5rem + 0.30vw);
   padding-top: 0;">
   Let's Connect
   </h1>
   <p>To be in the loop for future events and opportunities at the Canadian Ecological Forecasting Initiative, join us on Slack and subscribe to our newsletter.</p>
 
-  <button class=btn onclick="location.href='https://join.slack.com/t/cefiworkspace/shared_invite/zt-1e82pfie8-dYcmHzMMvXBnT~NKhs0i~g'">Join Slack</button>
-  <button class=btn onclick="location.href='./subscribe'">Subscribe</button>
+  <a href="https://join.slack.com/t/cefiworkspace/shared_invite/zt-1e82pfie8-dYcmHzMMvXBnT~NKhs0i~g" target="_blank"><button class=btn>Join Slack</button></a>
+  <a href="./subscribe"><button class=btn>Subscribe</button></a>
   
   </div>
 </div>
 
-<br/>
+<br>
+<br>
 
 <div class=content-right>
 
 We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed throughout the website!
 
 </div>
-
-
 
 </div>
 </html>
