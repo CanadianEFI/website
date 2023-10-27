@@ -47,7 +47,7 @@ permalink: subscribe
           <br>
         <input class=btn type="submit" value="Submit">
 </form>
-</div>
+<div class=form-container>
 
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec'
