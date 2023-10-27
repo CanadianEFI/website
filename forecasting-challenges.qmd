@@ -68,8 +68,8 @@ Subscribe below if you are interested in joining the conversation and contributi
             <label for="last-name">Last Name:</label>
           <input type="text" name="last-name" required="True">
           <br>
-            <label for="affiliation">Affiliation:</label>
-          <input type="text" name="affiliation" required="">
+            <label for="institution">Affiliation:</label>
+          <input type="text" name="institution" required="">
           <br>
           <label for="email">Email:</label>
           <input type="email" name="email" required="True">
