@@ -6,28 +6,13 @@ permalink: subscribe
 ---
 
 <style>
+
   .quarto-title-banner {
     height: 400px;
-    color: #000000; 
+    color: #111; 
     text-align: center;
   }
-
-  label {
-    padding-right: 6px;
-    padding-bottom: 12px;
-  }
-
-  input {
-    border: 1px solid #ccc;
-    padding-left: 6px;
-    padding-top: 3px;
-    border-radius: 3px;
-  }
-
-  input:focus {
-    outline: 1px solid #000;
-  }
-
+  
   .btn {
     margin: 0 0.5rem 0 0;
   }
