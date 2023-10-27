@@ -5,6 +5,7 @@
 <br>
 
 # Thank you for subscribing
-Please check your email for a confirmation message (it may take a few minutes).
+Please check your email for a confirmation message. <br>
+This may take a few minutes or land in your spam folder.
 
 </div>
