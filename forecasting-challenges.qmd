@@ -86,7 +86,7 @@ Subscribe below if you are interested in joining the conversation and contributi
           <br>
         <input class=btn type="submit" value="Submit">
 </form>
-</div>
+<div class=form-container>
 
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycbzp2oYeLQjyN1pkrVcjsWEy9R7ujHU9JSMseYRfyzRWCG031r3Zw0rs_KRWvVkbFSJ6XQ/exec'
