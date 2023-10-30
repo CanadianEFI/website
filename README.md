@@ -7,6 +7,8 @@ Here, we provide an overview of how to contribute to the website code, including
 * [Folder structure](https://github.com/CanadianEFI/website/edit/main/README.md#folder-structure)
 * [Protected branches & Pull requests](https://github.com/CanadianEFI/website/edit/main/README.md#protected-branches--pull-requests)
 
+<br>
+
 ## Files
 
 The website is built on three main types of files:
@@ -34,6 +36,8 @@ The website is built on three main types of files:
 <p>If a page requires specific changes relative to the global styling, then CSS code should be added to the respective page following the YAML code and within the <code><style></style></code> tags.</p>
 <p>Styling within an HTML element should be kept to a minimum, only when absolutely necessary.</p>
 
+<br>
+
 ## Folder structure
 
 The repo contains two types of folders:
@@ -50,6 +54,8 @@ The repo contains two types of folders:
 <p>The only folder that contributors may add to is the <code>_assets</code> folder.</p>
 <p>The <code>_assets</code> folder stores the fonts and images used in the website.</p>
 <p>Therefore, when adding new images to the website, these should be saved in the <code>_assets</code> folder.</p>
+
+<br>
 
 ## Protected branches & Pull requests
 
