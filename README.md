@@ -2,7 +2,7 @@
 
 This repo contains code for the CEFI website, built using <a href="https://quarto.org/" target="_blank">Quarto</a>.
 
-Here, we provide an overview of how to contribute to the website code, including:
+Here, we provide an overview of how to contribute to the building of the website, including:
 * [Files](https://github.com/CanadianEFI/website/edit/main/README.md#files)
 * [Folder structure](https://github.com/CanadianEFI/website/edit/main/README.md#folder-structure)
 * [Protected branches & Pull requests](https://github.com/CanadianEFI/website/edit/main/README.md#protected-branches--pull-requests)
