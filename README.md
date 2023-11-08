@@ -46,7 +46,7 @@ The repo contains two types of folders:
 
 ### Automatically updated folders
 
-<p>All all folders in this repo should remain unedited except for <code>_assets</code> (see Editable folder below).</p>
+<p>All folders in this repo should remain unedited, except for <code>_assets</code> (see <a href=https://github.com/CanadianEFI/website/edit/main/README.md#editable-folder>Editable folder</a> for more).</p>
 <p>The folders <code>_site</code>, <code>.quarto</code>, and <code>docs</code> contain the documents required to render the website. These folders are configured to update automatically when changes made to the files at the root of the website directory are committed and pushed to the repo.</p>
 
 ### Editable folder
