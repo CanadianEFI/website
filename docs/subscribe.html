@@ -62,8 +62,7 @@ ul.task-list li input[type="checkbox"] {
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background-image: url(_assets/subscribe-banner-crop.jpg);
-background-size: cover;
+        background: _assets/subscribe-banner-crop.jpg;
       }
 </style>
 
@@ -169,9 +168,10 @@ background-size: cover;
 </section>
 <div class="form-container">
 <form name="FORM_ID" id="FORM_ID">
-<label for="first-name">First Name:</label> <input type="text" name="first-name" required="True"> <br> <label for="last-name">Last Name:</label> <input type="text" name="last-name" required="True"> <br> <label for="institution">Institution:</label> <input type="text" name="institution" required=""> <br> <label for="email">Email:</label> <input type="email" name="email" required="True"> <br> <input class="btn" type="submit" value="Submit">
+<label for="first-name">First Name:</label> <input type="text" name="first-name" required="True" style="margin: 2px 0 2px 0;"> <br> <label for="last-name">Last Name:</label> <input type="text" name="last-name" required="True" style="margin: 2px 0 2px 0;"> <br> <label for="institution">Institution:</label> <input type="text" name="institution" required="" style="margin: 2px 0 2px 0;"> <br> <label for="email">Email:</label> <input type="email" name="email" required="True" style="margin: 2px 0 2px 0;"> <br> <input class="btn" type="submit" value="Submit" style="margin: 2px 0 2px 0;">
 </form>
-</div>
+<div class="form-container">
+
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec'
   const form = document.forms['FORM_ID']
@@ -202,7 +202,7 @@ background-size: cover;
 
 
 
-</main> <!-- /main -->
+</div></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

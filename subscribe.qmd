@@ -34,18 +34,18 @@ permalink: subscribe
 <div class=form-container>
 <form name="FORM_ID" id="FORM_ID">
   <label for="first-name">First Name:</label>
-          <input type="text" name="first-name" required="True">
+          <input type="text" name="first-name" required="True" style="margin: 2px 0 2px 0;">
           <br>
             <label for="last-name">Last Name:</label>
-          <input type="text" name="last-name" required="True">
+          <input type="text" name="last-name" required="True" style="margin: 2px 0 2px 0;">
           <br>
             <label for="institution">Institution:</label>
-          <input type="text" name="institution" required="">
+          <input type="text" name="institution" required="" style="margin: 2px 0 2px 0;">
           <br>
           <label for="email">Email:</label>
-          <input type="email" name="email" required="True">
+          <input type="email" name="email" required="True" style="margin: 2px 0 2px 0;">
           <br>
-        <input class=btn type="submit" value="Submit">
+        <input class=btn type="submit" value="Submit" style="margin: 2px 0 2px 0;">
 </form>
 <div class=form-container>
 

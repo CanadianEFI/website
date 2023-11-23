@@ -2,7 +2,7 @@
 
 This repo contains code for the CEFI website, built using <a href="https://quarto.org/" target="_blank">Quarto</a>.
 
-Here, we provide an overview of how to contribute to the building of the website, including:
+Here, we provide an overview of how to contribute to the website code, including:
 * [Files](https://github.com/CanadianEFI/website/edit/main/README.md#files)
 * [Folder structure](https://github.com/CanadianEFI/website/edit/main/README.md#folder-structure)
 * [Protected branches & Pull requests](https://github.com/CanadianEFI/website/edit/main/README.md#protected-branches--pull-requests)
@@ -46,7 +46,7 @@ The repo contains two types of folders:
 
 ### Automatically updated folders
 
-<p>All folders in this repo should remain unedited, except for <code>_assets</code> (see <a href=https://github.com/CanadianEFI/website/edit/main/README.md#editable-folder>Editable folder</a> for more).</p>
+<p>All but one folder (<code>_assets</code>) in this repo should remain unedited.</p>
 <p>The folders <code>_site</code>, <code>.quarto</code>, and <code>docs</code> contain the documents required to render the website. These folders are configured to update automatically when changes made to the files at the root of the website directory are committed and pushed to the repo.</p>
 
 ### Editable folder

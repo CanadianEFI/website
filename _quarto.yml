@@ -14,7 +14,6 @@ website:
         menu:
         - summer-school-2023.qmd 
 
-
   page-footer:
     left: "Canadian Ecological Forecasting Initiative" 
     right: 
