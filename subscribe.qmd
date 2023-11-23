@@ -1,6 +1,6 @@
 ---
 title: "Subscribe"
-title-block-banner: _assets/subscribe-banner-crop.jpg
+title-block-banner: _assets/banners/subscribe-banner-crop.jpg
 backgroundcolor: rgb(245, 245, 245)
 permalink: subscribe
 ---

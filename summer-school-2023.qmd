@@ -1,6 +1,6 @@
 ---
 title: "CEFI Summer School 2023"
-title-block-banner: _assets/summer-school-2023-banner.jpg
+title-block-banner: _assets/banners/summer-school-2023-banner.jpg
 backgroundcolor: rgb(245, 245, 245)
 ---
 
@@ -57,20 +57,20 @@ We are grateful to our partners for funding & support
 <div class="gallery">
 <div class="four-image-gallery">
 <a href="https://canmod.net/" target="_blank">
-<img src="_assets\canmod-logo.png" style="width: 100%">
+<img src="_assets\logos\canmod-logo.png" style="width: 100%">
 </a>
 </div>
 <div class="four-image-gallery">
-<a href="https://ecoforecast.org/" target="_blank"><img src="_assets\EFI-logo.png" style="width: 100%"></a>
+<a href="https://ecoforecast.org/" target="_blank"><img src="_assets\logos\EFI-logo.png" style="width: 100%"></a>
 </div>
 <div class="four-image-gallery">
-<a href="http://www.fields.utoronto.ca" target="_blank"><img src="_assets\fields-logo.png" style="width: 100%"></a>
+<a href="http://www.fields.utoronto.ca" target="_blank"><img src="_assets\logos\fields-logo.png" style="width: 100%"></a>
 </div>
 <div class="four-image-gallery">
-<a href="https://apexrms.com/" target="_blank"><img src="_assets\apexrms-logo.png" style="width: 100%"></a>
+<a href="https://apexrms.com/" target="_blank"><img src="_assets\logos\apexrms-logo.png" style="width: 100%"></a>
 </div>
 </div>
-<a href="https://datasciences.utoronto.ca/" target="_blank"><img src="_assets\dsi-logo.png"  style="width: 95%; padding-top: 12px;"></a>
+<a href="https://datasciences.utoronto.ca/" target="_blank"><img src="_assets\logos\dsi-logo.png"  style="width: 95%; padding-top: 12px;"></a>
 </div>
 
 <br>

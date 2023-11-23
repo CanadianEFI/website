@@ -1,6 +1,6 @@
 ---
 title: "Forecasting Challenges"
-title-block-banner: _assets/forecasting-challenges-banner-crop.jpg
+title-block-banner: _assets/banners/forecasting-challenges-banner-crop.jpg
 backgroundcolor: rgb(245, 245, 245)
 permalink: forecasting-challenges
 ---

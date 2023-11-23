@@ -1,7 +1,7 @@
 ---
 title: "Canadian Ecological<br/>Forecasting Initiative"
 subtitle: "Connecting researchers for predicting in the Anthropocene"
-title-block-banner: _assets/home-banner-crop.jpg
+title-block-banner: _assets/banners/home-banner-crop.jpg
 backgroundcolor: rgb(245, 245, 245)
 permalink: home
 ---
