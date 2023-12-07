@@ -131,7 +131,7 @@
 .three-image-gallery {
   flex: 25%;
   padding-right: 24px;
-  font-size: small;
+  font-size: medium;
 }
 
 
@@ -179,5 +179,8 @@ input:focus {
   }
   .container-poster {
     min-width: 100% !important;
+  }
+  .three-image-gallery {
+    font-size: small;
   }
 }
