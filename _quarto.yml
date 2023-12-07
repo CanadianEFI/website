@@ -13,7 +13,6 @@ website:
       - text: Past events 
         menu:
         - summer-school-2023.qmd 
-        - CIEE-working-group-2020.qmd
 
   page-footer:
     left: "Canadian Ecological Forecasting Initiative" 
