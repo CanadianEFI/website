@@ -26,7 +26,7 @@ We are a grassroots organization on a mission to build capacity in Canada for ge
 <div class=container-image-text
 style='align-items: center;'>
 
-  <img src='_assets/EFI-logo.png'
+  <img src='_assets/logos/EFI-logo.png'
   style='float: right; height: 250px; margin: 1rem;'>
 
   <div style='float: bottom;'>
@@ -41,7 +41,7 @@ style='align-items: center;'>
 <br/>
 
 <div class="container-text-on-image">
-  <img class="conditional-image" src="_assets\IMG_29965_edit_crop.jpg" style="width:100% !important;">
+  <img class="conditional-image" src="_assets\banners\IMG_29965_edit_crop.jpg" style="width:100% !important;">
   <div class="container-poster">
   
   <h1 style="font-size: calc(1.5rem + 0.30vw);
