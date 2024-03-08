@@ -16,7 +16,8 @@ backgroundcolor: rgb(245, 245, 245)
 <h1 style="font-size: calc(1.5rem + 0.30vw); padding-bottom: 0;">
 A comparative perspective on<br>integrating ecological forecasting with decision-making
 </h1>
-Joint annual meeting for ESA & CSEE, 2022
+Joint annual meeting for ESA & CSEE, 2022<br>
+Montreal, Québec, Canada
 </div>
 
 <div class=content-left>
@@ -107,6 +108,6 @@ Despite forecasts of increased rates of disturbance under climate change, our mo
 <br>
 <br>
 
-<div class=content-right>
-Thanks <a href="https://www.pexels.com/photo/rocks-in-the-athabasca-river-5833890/" target="_blank">James Wheeler</a> for the beautiful photo displayed on this page!
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/rocks-in-the-athabasca-river-5833890/" target="_blank">James Wheeler</a> for the beautiful photo displayed on this page ☺
 </div>

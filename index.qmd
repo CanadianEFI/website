@@ -59,11 +59,6 @@ style='align-items: center;'>
 <br>
 <br>
 
-<div class=content-right>
-
-We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed throughout the website!
-
+<div class=photo-reference>
+We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed on this page ☺
 </div>
-
-</div>
-</html>

@@ -76,6 +76,6 @@ We are grateful to our partners for funding & support
 <br>
 <br>
 
-<div class=content-right>
-Thanks <a href="https://www.pexels.com/photo/lake-ontario-in-canada-13653630/" target="_blank">Mateusz Walendzik</a> for the beautiful photo displayed on this page!
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/lake-ontario-in-canada-13653630/" target="_blank">Mateusz Walendzik</a> for the beautiful photo displayed on this page ☺
 </div>

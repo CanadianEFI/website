@@ -54,6 +54,14 @@
   font-family: 'Varela';
 }
 
+.photo-reference{
+  text-align: right;
+  font-family: 'Varela';
+  font-size: 0.8rem;
+  font-weight: 100;
+  color: darkgrey;
+}
+
 .content-left{
   text-align: left;
   font-family: 'Varela';

@@ -42,7 +42,6 @@ permalink: forecasting-challenges
 <div class=content-center>
 
 # The Canadian Spatial Ecological Forecasting Challenges
-Coming in 2024
 
 </div>
 
@@ -53,7 +52,7 @@ The **Canadian Spatial Ecological Forecasting Challenges** will be a collection 
 
 <br>
 
-# Join us
+# Stay in the loop
 
 Subscribe below if you are interested in joining the conversation and contributing to this initiative, or if you would like to be informed about the forecasting challenges when they launch. 
 
@@ -78,10 +77,10 @@ Subscribe below if you are interested in joining the conversation and contributi
           <label>I'm subscribing for updates on:</label>
           <br>
           <input type="checkbox" name="setting-up">
-          <label for="setting-up">Setting up forecasting challenges.</label>
+          <label for="setting-up">Setting up forecasting challenges</label>
           <br>
           <input type="checkbox" name="participating">
-          <label for="participating">News on the forecasting challenges.</label>
+          <label for="participating">News on the forecasting challenges</label>
           <br>
           <br>
         <input class=btn type="submit" value="Submit">
@@ -120,9 +119,17 @@ Subscribe below if you are interested in joining the conversation and contributi
 <br>
 <br>
 
-<div class=content-right>
+<div class=content-left>
 
-Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page!
+# Contact
 
+For inquiries and questions, please reach out to <a href="mailto:josie.hughes@ec.gc.ca">Josie Hughes</a>.
+
+</div>
+
+<br>
+<br>
+
+<div class=photo-reference>Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page ☺
 </div>
 

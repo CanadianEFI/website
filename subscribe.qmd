@@ -77,3 +77,10 @@ permalink: subscribe
         })
     }); 
 </script>
+
+<br>
+<br>
+
+<div class=photo-reference>
+We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed on this page ☺
+</div>

@@ -164,6 +164,6 @@ Wilfrid Laurier University
 <br>
 <br>
 
-<div class=content-right>
-Thanks <a href="https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/" target="_blank">Jaime Reimer</a> for the beautiful photo displayed on this page!
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/" target="_blank">Jaime Reimer</a> for the beautiful photo displayed on this page ☺
 </div>
