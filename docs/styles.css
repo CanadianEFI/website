@@ -142,6 +142,11 @@
   font-size: medium;
 }
 
+.two-column-gallery {
+  flex: 25%;
+  padding-right: 24px;
+}
+
 
 /* forms */
 

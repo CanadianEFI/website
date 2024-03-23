@@ -36,21 +36,11 @@ Members</p>
 </div>
 
 <div class="content-left">
-<b>Organizers</b>
+<b>Main organizer</b>
 <div class="gallery">
 <div class="three-image-gallery">
-<img src="_assets\members\bodner.jpg" style="width: 100%; padding-bottom: 12px">
-<u>Korryn Bodner</u><br>
-University of Toronto
-</div>
-<div class="three-image-gallery">
-<img src="_assets\members\firkowski.jpg" style="width: 100%; padding-bottom: 12px">
-<u>Carina Firkowski</u><br>
-University of Toronto
-</div>
-<div class="three-image-gallery">
-<img src="_assets\members\fortin.jpg" style="width: 100%; padding-bottom: 12px">
-<a href="http://fortin.eeb.utoronto.ca/" target="_blank">Marie-Josée Fortin</a><br>
+<img src="_assets\members\bodner.jpg" style="width: 31%; padding-bottom: 12px">
+<br><u>Korryn Bodner</u><br>
 University of Toronto
 </div>
 </div>
@@ -58,6 +48,27 @@ University of Toronto
 
 <br>
 
+<div class="content-left">
+<b>Co-organizers</b>
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\firkowski.jpg" style="width: 100%; padding-bottom: 12px">
+<br><u>Carina Firkowski</u><br>
+University of Toronto
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\fortin.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="http://fortin.eeb.utoronto.ca/" target="_blank">Marie-Josée Fortin</a><br>
+University of Toronto
+</div>
+<div class="three-image-gallery">
+</div>
+</div>
+</div>
+
+<br>
+
+<div class="content-left">
 <b>Invited members</b>
 <div class="gallery">
 <div class="three-image-gallery">
@@ -79,7 +90,9 @@ Boston University
 Environment & Climate Change Canada
 </div>
 </div>
+</div>
 
+<div class="content-left">
 <div class="gallery">
 <div class="three-image-gallery">
 <img src="_assets\members\kunegel-lion.jpg" style="width: 100%; padding-bottom: 12px">
@@ -100,7 +113,9 @@ Memorial University of Newfoundland
 Pacific Forestry Centre NRCAN
 </div>
 </div>
+</div>
 
+<div class="content-left">
 <div class="gallery">
 <div class="three-image-gallery">
 <img src="_assets\members\molnar.jpg" style="width: 100%; padding-bottom: 12px">
@@ -120,7 +135,9 @@ Fisheries and Oceans Canada
 Natural Resources Canada
 </div>
 </div>
+</div>
 
+<div class="content-left">
 <div class="gallery">
 <div class="three-image-gallery">
 <img src="_assets\members\tekwa.jpg" style="width: 100%; padding-bottom: 12px">
@@ -140,7 +157,9 @@ Rutgers University, University of Toronto
 University of Alberta
 </div>
 </div>
+</div>
 
+<div class="content-left">
 <div class="gallery">
 <div class="three-image-gallery">
 <img src="_assets\members\green.jpg" style="width: 100%; padding-bottom: 12px">
@@ -158,6 +177,7 @@ University of Ottawa
 <u>Craig Simpkins</u>
 <br>
 Wilfrid Laurier University
+</div>
 </div>
 </div>
 
