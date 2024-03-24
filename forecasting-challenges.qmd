@@ -123,7 +123,10 @@ Subscribe below if you are interested in joining the conversation and contributi
 
 # Contact
 
-For general inquiries and questions, please reach out to <a href="mailto:josie.hughes@ec.gc.ca">Josie Hughes</a>.
+For general inquiries or questions, please reach out to <a href="mailto:josie.hughes@ec.gc.ca">Josie Hughes</a>.
+
+For specific questions about the Canadian Lyme disease forecasting challenge, please contact <a href="mailto:k.bodner@mail.utoronto.ca">Korryn Bodner</a>.
+
 
 </div>
 
