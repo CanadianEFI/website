@@ -1,0 +1,79 @@
+<style>
+
+  .quarto-title-banner {
+    height: 400px;
+    color: #111; 
+    text-align: center;
+  }
+  
+  .btn {
+    margin: 0 0.5rem 0 0;
+  }
+
+  h1, .h1 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'Varela';
+  }
+
+</style>
+
+<div class=content-left>
+
+# Join the CEFI mailing list
+
+</div>
+
+<div class=form-container>
+<form name="FORM_ID" id="FORM_ID">
+  <label for="first-name">First Name:</label>
+          <input type="text" name="first-name" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+            <label for="last-name">Last Name:</label>
+          <input type="text" name="last-name" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+            <label for="institution">Institution:</label>
+          <input type="text" name="institution" required="" style="margin: 2px 0 2px 0;">
+          <br>
+          <label for="email">Email:</label>
+          <input type="email" name="email" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+        <input class=btn type="submit" value="Submit" style="margin: 2px 0 2px 0;">
+</form>
+<div class=form-container>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycby2XCfvtHLmcG-q1tH-Cg9LK-A6jngxL6dGG0l4gVlw6i8wSBtfQ82ljlk1hHZHTMn9/exec'
+  const form = document.forms['FORM_ID']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+
+<script type = "text/javascript" >
+    window.addEventListener("DOMContentLoaded", function() {
+        const yourForm = document.getElementById('FORM_ID');
+        yourForm.addEventListener("submit", function(e) {
+            e.preventDefault();
+            const data = new FormData(yourForm);
+            const action = e.target.action;
+            fetch(action, {
+                method: 'POST',
+                body: data,
+            }).then(() => {
+                window.location.replace('https://canadianefi.ca/thank-you')
+            })
+        })
+    }); 
+</script>
+
+<br>
+<br>
+
+<div class=photo-reference>
+We kindly thank <b>Andrew Chin</b> for the beautiful photography displayed on this page ☺
+</div>

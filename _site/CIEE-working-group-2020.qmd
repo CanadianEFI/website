@@ -1,0 +1,183 @@
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    text-align: center;
+    color: #111; 
+  }
+</style>
+
+<div class=content-center>
+<h1 style="font-size: calc(1.5rem + 0.30vw); padding-bottom: 0;">
+Forecasting in the Anthropocene:
+</h1>
+Addressing uncertainty in complex-systems using theory, modelling and applied science
+</div>
+
+<div class=content-left>
+<br>
+Ecological forecasting has an imperative role to play in advancing basic science and helping to mitigate impacts arising from human-induced environmental changes. Improving our ability to forecast in uncertain conditions requires additional resources and coordinated efforts between scientists across academia, government, NGOs and industry.
+
+Thanks to the support of <a href="http://www.ciee-icee.ca/" target="_blank">CIEE</a>, in 2020 CEFI brought together researchers from academia, industry, NGOs and government to discuss the greatest challenges surrounding predictive ecology when combining theory and practice, and the similarities and differences for generating successful forecasts across different institutions.
+
+​As an outcome of the working group, we developed a set of guidelines to help researches produce more reliable and useful ecological predictions to inform policy. Read <b>Bridging the divide between ecological forecasts and environmental decision making</b> in full <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3869" target="_blank">here</a>.
+
+</div>
+<br>
+
+<div class="content-center">
+<p style="font-size: calc(1.25rem + 0.30vw); font-weight: 600;">
+Members</p>
+</div>
+
+<div class="content-left">
+<b>Main organizer</b>
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\bodner.jpg" style="width: 31%; padding-bottom: 12px">
+<br><u>Korryn Bodner</u><br>
+University of Toronto
+</div>
+</div>
+</div>
+
+<br>
+
+<div class="content-left">
+<b>Co-organizers</b>
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\firkowski.jpg" style="width: 100%; padding-bottom: 12px">
+<br><u>Carina Firkowski</u><br>
+University of Toronto
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\fortin.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="http://fortin.eeb.utoronto.ca/" target="_blank">Marie-Josée Fortin</a><br>
+University of Toronto
+</div>
+<div class="three-image-gallery">
+</div>
+</div>
+</div>
+
+<br>
+
+<div class="content-left">
+<b>Invited members</b>
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\bennett.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://carleton.ca/bennett-lab/" target="_blank">Joseph Bennett</a>
+<br>
+Carleton University
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\dietze.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="http://people.bu.edu/dietze/index.html" target="_blank">Michael Dietze</a>
+<br>
+Boston University
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\hughes.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="http://www.jshughes.org/" target="_blank">Josie Hughes</a>
+<br>
+Environment & Climate Change Canada
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\kunegel-lion.jpg" style="width: 100%; padding-bottom: 12px">
+<u>Mélodie Kunegel-Lion</u>
+<br>
+Northern Forestry Centre NRCAN
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\leroux.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="http://shawnleroux.wixsite.com/lerouxlab" target="_blank">Shawn Leroux</a>
+<br>
+Memorial University of Newfoundland
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\mcintire.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://predictiveecology.org/about.html/" target="_blank">Eliot McIntire</a>
+<br>
+Pacific Forestry Centre NRCAN
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\molnar.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://www.utsc.utoronto.ca/labs/molnar/" target="_blank">Péter Molnár</a>
+<br>
+University of Toronto Scarborough
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\rogers.jpg" style="width: 100%; padding-bottom: 12px">
+<u>Luke A. Rogers</u><br>
+Fisheries and Oceans Canada
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\stewart.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="http://www.stewartresearch.ca/" target="_blank">Frances Stewart</a>
+<br>
+Natural Resources Canada
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\tekwa.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://ewtekwa.weebly.com/" target="_blank">Eden Tekwa</a>
+<br>
+Rutgers University, University of Toronto
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\watts.jpg" style="width: 100%; padding-bottom: 12px">
+<u>Alexander Watts</u><br>
+​BlueDot
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\brookson.jpg" style="width: 100%; padding-bottom: 12px">
+<u>Cole Brookson</u>
+<br>
+University of Alberta
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\green.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://greenlab.ca/" target="_blank">Stephanie Green</a>
+<br>
+University of Alberta
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\kerr.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://macroecology.ca/" target="_blank">Jeremy Kerr</a><br>
+University of Ottawa
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\simpkins.jpg" style="width: 100%; padding-bottom: 12px">
+<u>Craig Simpkins</u>
+<br>
+Wilfrid Laurier University
+</div>
+</div>
+</div>
+
+<br>
+<br>
+
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/" target="_blank">Jaime Reimer</a> for the beautiful photo displayed on this page ☺
+</div>

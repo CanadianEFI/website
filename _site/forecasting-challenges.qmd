@@ -1,0 +1,131 @@
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    color: #111; 
+    text-align: center;
+  }
+
+  label {
+    padding-right: 6px;
+    padding-bottom: 12px;
+  }
+
+  input {
+    border: 1px solid #ccc;
+    padding-left: 6px;
+    padding-top: 3px;
+    border-radius: 3px;
+  }
+
+  input:focus {
+    outline: 1px solid #000;
+  }
+
+  .btn {
+    margin: 0 0.5rem 0 0;
+  }
+
+
+  form{
+    display: block;
+  }
+
+</style>
+
+<div class=content-center>
+
+# The Canadian Spatial Ecological Forecasting Challenges
+
+</div>
+
+<br>
+
+<div class=content-left>
+The **Canadian Spatial Ecological Forecasting Challenges** will be a collection of forecasting challenges designed to help solve ecological problems in Canada. Inspired by the NEON Ecological Forecasting Challenge and supported by EFI, an initial set of spatial challenges will serve as a starting point for a diversity of Canadian Ecological Forecasting Challenges to be added over the coming years.
+
+<br>
+
+# Stay in the loop
+
+Subscribe below if you are interested in joining the conversation and contributing to this initiative, or if you would like to be informed about the forecasting challenges when they launch. 
+
+</div>
+
+<div class=form-container>
+<form name="FORM_ForecastingChallenges" id="FORM_ForecastingChallenges">
+<br>
+  <label for="first-name">First Name:</label>
+          <input type="text" name="first-name" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+          <label for="last-name">Last Name:</label>
+          <input type="text" name="last-name" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+          <label for="institution">Affiliation:</label>
+          <input type="text" name="institution" required="" style="margin: 2px 0 2px 0;">
+          <br>
+          <label for="email">Email:</label>
+          <input type="email" name="email" required="True" style="margin: 2px 0 2px 0;">
+          <br>
+          <br>
+          <label>I'm subscribing for updates on:</label>
+          <br>
+          <input type="checkbox" name="setting-up">
+          <label for="setting-up">Setting up forecasting challenges</label>
+          <br>
+          <input type="checkbox" name="participating">
+          <label for="participating">News on the forecasting challenges</label>
+          <br>
+          <br>
+        <input class=btn type="submit" value="Submit">
+</form>
+<div class=form-container>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbzp2oYeLQjyN1pkrVcjsWEy9R7ujHU9JSMseYRfyzRWCG031r3Zw0rs_KRWvVkbFSJ6XQ/exec'
+  const form = document.forms['FORM_ForecastingChallenges']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+
+<script type = "text/javascript" >
+    window.addEventListener("DOMContentLoaded", function() {
+        const yourForm = document.getElementById('FORM_ForecastingChallenges');
+        yourForm.addEventListener("submit", function(e) {
+            e.preventDefault();
+            const data = new FormData(yourForm);
+            const action = e.target.action;
+            fetch(action, {
+                method: 'POST',
+                body: data,
+            }).then(() => {
+                window.location.replace('https://canadianefi.ca/thank-you')
+            })
+        })
+    }); 
+</script>
+
+<br>
+<br>
+
+<div class=content-left>
+
+# Contact
+
+For general inquiries or questions, please reach out to <a href="mailto:josie.hughes@ec.gc.ca">Josie Hughes</a>.
+
+For specific questions about the Canadian Lyme disease forecasting challenge, please contact <a href="mailto:k.bodner@mail.utoronto.ca">Korryn Bodner</a>.
+
+
+</div>
+
+<br>
+<br>
+
+<div class=photo-reference>Thanks <a href="https://www.pexels.com/@ma-jacky-388296502/" target="_blank">Ma Jacky</a> for the beautiful photo displayed on this page ☺
+</div>
+

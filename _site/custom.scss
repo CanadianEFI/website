@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+$link-color: rgb(57,114,158) !default;
+$link-color-hover: lighten($link-color, 50%) !default;
+
+.navbar-nav .nav-link {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.dropdown-menu {
+  box-shadow: none !important;
+  border: none !important;
+  background-color: #fefefe !important;
+
+  .dropdown-item:hover {
+    background-color: lightgray;
+    color: #111;
+    border-radius: .25rem;
+    border: none;
+  }
+
+}
