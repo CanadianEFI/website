@@ -16,7 +16,7 @@ permalink: home
 
 <div class=content-center>
 
-# Mission
+# Welcome to CEFI
 We are a grassroots organization on a mission to build capacity in Canada for generating ecological and epidemiological forecasts aimed at informing decisions. We strive to create and maintain a positive and supportive network of people across academia, industry, NGOs and government who have the common goals to advance basic science, increase data sharing, connect forecasts to decision-making, and improve how we model in an uncertain future.
 
 <br/>
