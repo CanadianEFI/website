@@ -16,6 +16,9 @@ website:
         - ESA-CSEE-symposium-2022.qmd
         - CIEE-working-group-2020.qmd
         - CSEE-symposium-2019.qmd
+      - text: About us
+        menu:
+        - steering-committee.qmd
         
 
   page-footer:

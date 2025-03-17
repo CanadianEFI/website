@@ -1,0 +1,134 @@
+---
+title: "Steering Committee"
+title-block-banner: _assets/banners/steering-committee-banner2.jpg
+backgroundcolor: rgb(245, 245, 245)
+---
+
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    text-align: center;
+    color: #fff; 
+  }
+</style>
+
+<div class=content-center>
+<h1 style="font-size: calc(1.5rem + 0.30vw); padding-bottom: 0;">
+Guiding CEFI's mission & initiatives 
+</h1>
+</div>
+
+<div class=content-left>
+<br>
+The CEFI steering committee was instituted to help the network with the following goals:
+<li>Continue to build an engaged community of practice</li>
+<li>Formalize guiding values and long-term planning</li>
+<li>Support a democratic decision-making process</li>
+<li>Improve the sustainability of the network</li>
+<li>Continue to create and organize impactful initiatives</li>
+<br>
+To achieve these goals, the steering committee is formed by 5-10 members and has elections every two years. It includes representation from: graduate students and post-doctoral researchers (min. 2), government representatives (min. 2), industry & NGO (min. 2), and academics (remaining seats). All decisions are made by majority vote. The steering committee holds monthly meetings.
+</div>
+<br>
+
+<div class="content-center">
+<p style="font-size: calc(1.25rem + 0.30vw); font-weight: 600;">
+Members</p>
+2025-2027
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\bodner.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://korrynbodner.webnode.page" target="_blank">Korryn Bodner</a><br>
+University of Guelph<br>
+Chair<br>
+<br>
+Korryn is interested in combining near-term forecasting with One Health to predict and prevent the emergence and spread of infectious diseases that impact wildlife, domestic animals, and humans. She is also currently serving as an elected member of the Ecological Forecasting Initiative’s Steering Committee.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\firkowski.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://www.linkedin.com/in/carinafirkowski" target="_blank">Carina Firkowski</a><br>
+ApexRMS<br>
+Co-chair & Website sub-committee<br>
+<br>
+Carina is an ecologist interested in conservation and modeling applied to decision-making contexts. Her work focuses on modeling ecological connectivity and habitat prioritization in face of human induced land cover and climate change to inform management decisions.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\bhatia.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://sites.google.com/view/deepitbhatia/home" target="_blank">Deepit Bhatia</a></u><br>
+Penn State University<br>
+Memberships sub-committee<br>
+<br>
+Deepit is interested in bridging the gap between theoretical and applied epidemiology to understand how disease elimination can be achieved and maintained in the short- and long-term, particularly in vaccine-preventable diseases in humans and livestock.
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\brimacombe.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://chrisb590.github.io" target="_blank">Chris Brimacombe</a></u><br>
+University of Guelph<br>
+Communications sub-committee<br>
+<br>
+Chris investigates species interaction networks, focusing on the ecological processes that determine why species interact in particular environments. He aims to apply forecasting techniques to these networks to evaluate their predictive performance and enhance our understanding of species interactions and community dynamics. By identifying and addressing biases in existing network models, Chris strives to improve their accuracy and utility, advancing ecological research.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\brookson2.png" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://github.com/colebrookson" target="_blank">Cole Brookson</a></u><br>
+Yale University<br>
+Communications sub-committee<br>
+<br>
+Cole is interested in forecasting infectious disease dynamics in the context of climate change. He also is interested in using forecasting-based techniques to better understand the predictability of ecological systems generally.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\cumming.jpg" style="width: 100%; padding-bottom: 12px">
+<br><a href="https://www.cef-cfr.ca/pmwiki.php?n=Membres.StevenGCumming" target="_blank">Steve Cumming</a></u><br>
+Université Laval<br>
+<br>
+<br>
+Steve is an ecological modeler and statistical ecologist focussing on boreal ecosystem dynamics and management. He is involved in ecological forecasting studies in Yukon, the Northwest Territories, Ontario, Québec, and the Atlantic provinces.
+</div>
+</div>
+</div>
+
+<div class="content-left">
+<div class="gallery">
+<div class="three-image-gallery">
+<img src="_assets\members\fortin.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://fortin.eeb.utoronto.ca" target="_blank">Marie-Josée Fortin</a><br>
+University of Toronto<br>
+Memberships sub-committee<br>
+<br>
+Marie-Josée is interested in predicting species dispersal and species interactions across spatial scales.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\hughes.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://jshughes.org/" target="_blank">Josie Hughes</a>
+<br>
+ECCC<br>
+Website sub-committee<br>
+<br>
+Josie is a Research Scientist with Environment and Climate Change Canada. She aims to improve the usefulness, reliability, transparency, and availability of tools for projecting changes in wildlife and vegetation.
+</div>
+<div class="three-image-gallery">
+<img src="_assets\members\mcintire.jpg" style="width: 100%; padding-bottom: 12px">
+<a href="https://predictiveecology.org" target="_blank">Eliot McIntire</a><br>
+NRCan<br>
+Website sub-committee<br>
+<br>
+<br>
+</div>
+</div>
+</div>
+
+<br>
+<br>
+
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/green-pine-trees-near-mountains-under-blue-sky-1374295/
+" target="_blank">Matthew Montrone</a> for the beautiful photo displayed on this page ☺
+</div>
