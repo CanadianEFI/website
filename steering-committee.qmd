@@ -120,6 +120,9 @@ Josie is a Research Scientist with Environment and Climate Change Canada. She ai
 NRCan<br>
 Website sub-committee<br>
 <br>
+Eliot is a Research Scientist with Natural Resources Canada and the Canadian Forest Service. He is the primary developer of the SpaDES metapackage for R and he teaches and uses this to help implement the [PERFICT](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13994) approach to applied ecology for decision making. He works on forecasting of a diversity of processes, including wildfire, forest insects, wildlife, and trees. 
+</div>
+<br>
 <br>
 </div>
 </div>
