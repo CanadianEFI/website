@@ -1,1 +1,5 @@
 /.quarto/
+.Rproj.user
+website.Rproj
+.Rhistory
+
