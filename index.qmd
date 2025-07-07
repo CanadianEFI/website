@@ -30,7 +30,7 @@ style='align-items: center;'>
   style='float: right; height: 250px; margin: 1rem;'>
 
   <div style='float: bottom;'>
-  **CEFI** is the very first chapter of the Ecological Forecasting Initiative. Go check them out for information on working groups, workshops, educational tools and other resources related to ecological forecasting.
+  **CEFI** is the very first chapter of the Ecological Forecasting Initiative. Visit EFI for information on working groups, workshops, educational tools and other resources related to ecological forecasting.
 
   <a href="https://ecoforecast.org/" target="_blank"><button class=btn>Visit EFI</button></a>
   </div>
@@ -48,10 +48,11 @@ style='align-items: center;'>
   padding-top: 0;">
   Join us
   </h1>
-  <p>To be in the loop for future events and opportunities at the Canadian Ecological Forecasting Initiative, join us on Slack and subscribe to our newsletter.</p>
+  <p>Become a member of CEFI and take part in shaping a 
+  growing community focused on advancing 
+  ecological forecasting in Canada.</p>
 
-  <a href="https://join.slack.com/t/cefiworkspace/shared_invite/zt-1e82pfie8-dYcmHzMMvXBnT~NKhs0i~g" target="_blank"><button class=btn>Join Slack</button></a>
-  <a href="https://canadianefi.ca/subscribe"><button class=btn>Subscribe</button></a>
+  <a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi" target="_blank"><button class=btn2>Sign up</button></a>
   
   </div>
 </div>

@@ -27,7 +27,7 @@ The CEFI steering committee was instituted to help the network with the followin
 <li>Improve the sustainability of the network</li>
 <li>Continue to create and organize impactful initiatives</li>
 <br>
-To achieve these goals, the steering committee is formed by 5-10 members and has elections every two years. It includes representation from: graduate students and post-doctoral researchers (min. 2), government representatives (min. 2), industry & NGO (min. 2), and academics (remaining seats). All decisions are made by majority vote. The steering committee holds monthly meetings.
+To achieve these goals, the steering committee is formed by 5-10 members and has elections every two years. It aims to include representation from: graduate students and post-doctoral researchers (min. 2), government representatives (min. 2), industry & NGO (min. 2), and academics (remaining seats). All decisions are made by majority vote. The steering committee holds monthly meetings.
 </div>
 <br>
 
