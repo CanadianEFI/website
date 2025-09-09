@@ -9,7 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - forecasting-challenges.qmd
-      - subscribe.qmd
       - text: Past events 
         menu:
         - summer-school-2023.qmd 
@@ -19,6 +18,8 @@ website:
       - text: About us
         menu:
         - steering-committee.qmd
+      - href: membership.qmd
+        text: Join us
         
 
   page-footer:

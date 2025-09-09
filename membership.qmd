@@ -1,0 +1,92 @@
+---
+title: "Membership"
+title-block-banner: _assets/banners/membership-banner.jpg
+backgroundcolor: rgb(245, 245, 245)
+---
+
+<style>
+  .quarto-title-banner {
+    height: 400px;
+    text-align: center;
+  }
+</style>
+
+<div class=content-center>
+<h1 style="font-size: calc(1.5rem + 0.30vw); padding-bottom: 0;">Join the CEFI community today</h1>
+</div>
+
+<div class=content-left>
+Become a member of CEFI and take part in shaping a growing community focused on advancing ecological forecasting in Canada. 
+
+Membership connects you with a vibrant network of peers and provides many benefits, including the opportunity to vote and run in CEFI <a href="https://canadianefi.ca/steering-committee.html">steering committee</a> elections, collaborate on <a href="https://ecoforecast.org/cross-cutting-themes" target="_blank">working group</a> projects and manuscripts, receive discounts on conference registrations, and more. Join today and help us shape the future of ecological forecasting in Canada.
+
+<h1 style="font-size: calc(1.15rem + 0.30vw); padding-bottom: 0;">
+What you get
+</h1>
+
+</div>
+
+| Benefits                              | Anyone | Subscribers | Members |
+|---------------------------------------|:------:|:-----------:|:-------:|
+| Access to conferences & events        | x      | x           | x       |
+| Regular newsletter                    |        | x           | x       |
+| Registration discounts                |        |             | x       |
+| Access to Slack groups                |        |             | x       |
+| Participation in working groups       |        |             | x       |
+| Vote in steering committee elections  |        |             | x       |
+| Run in steering committee elections   |        |             | x       |
+| Entry in the members directory        |        |             | x       |
+
+<div class=content-left>
+
+<h1 style="font-size: calc(1.25rem + 0.30vw); padding-bottom: 0;">
+What you offer
+</h1>
+
+By becoming a member of CEFI, you affirm commitment to <a href="http://ecoforecast.org/shared-values-and-principles/">EFI's Shared Values & Operating Principles and Procedures</a> and interest in building a community of practice around ecological forecasts.
+
+<h1 style="font-size: calc(1.25rem + 0.30vw); padding-bottom: 0;">
+How it works
+</h1>
+
+* There is no fee for registering as a member. 
+* Fill a form, where you will be asked to provide your name, affiliation, photo (optional), email, social media, and a short one-sentence description of your ecological forecasting work interests.
+* By becoming a CEFI member, you also become an <a href="https://ecoforecast.org/" target="_blank">EFI member</a>.
+* Once registered, you will be listed in the CEFI (coming soon) and <a href="https://ecoforecast.org/member-profiles/" target="_blank">EFI members directory</a>.
+* Once registered, you will receive an EFI mug as a gift in the mail.
+</div>
+
+<div class="gallery">
+
+<div 
+class="two-column-gallery" 
+style="padding: 0 1rem 1rem 1rem;
+margin: 0 2rem 1rem 0;
+background-color: #d9d9d970;
+font-family: 'Varela';
+border-radius: 20px;">
+<h1 style="font-size: calc(1.25rem + 0.30vw); padding: 0 0 0 1rem;">
+Join CEFI today
+</h1>
+<p style="padding: 0 0 0 1rem;">Let's build and strengthen a Canadian ecological forescating community of practive together.</p>
+<a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi">
+<button class=btn>Become a member</button></a>
+</div>
+
+<div class="two-column-gallery">
+<h1 style="font-family: 'Varela'; font-size: calc(1.25rem + 0.30vw); padding: 0 0 0 1rem;">
+Not ready to commit yet?
+</h1>
+<p style="padding: 0 0 0 1rem;">You can still stay connected. Subscribe to the CEFI mailing list for news and updates on upcoming initiatives.</p>
+<a href="https://canadianefi.ca/subscribe.html" target="_blank">
+<button class=btn>Subscribe</button></a>
+</div>
+
+</div>
+
+<br>
+<br>
+
+<div class=photo-reference>
+Thanks <a href="https://www.pexels.com/photo/people-canoeing-on-river-in-forest-in-mountains-15110517/" target="_blank">IslandHopper X</a> for the beautiful photo displayed on this page ☺
+</div>
