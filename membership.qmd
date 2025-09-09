@@ -40,19 +40,19 @@ What you get
 <div class=content-left>
 
 <h1 style="font-size: calc(1.25rem + 0.30vw); padding-bottom: 0;">
-What you offer
+What you give
 </h1>
 
 By becoming a member of CEFI, you affirm commitment to <a href="http://ecoforecast.org/shared-values-and-principles/" target="_blank">EFI's Shared Values & Operating Principles and Procedures</a> and interest in building a community of practice around ecological forecasts.
 
 <h1 style="font-size: calc(1.25rem + 0.30vw); padding-bottom: 0;">
-How it works
+How to become a member
 </h1>
 
-* There is no fee for registering as a member. 
-* Fill a form, where you will be asked to provide your name, affiliation, photo (optional), email, social media, and a short one-sentence description of your ecological forecasting work interests.
+* Fill a<a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi" target="_blank">form</a>, where you will be asked to provide your name, affiliation, photo, email, social media, mailing address, and a short one-sentence description of your ecological forecasting work interests. Most fields are optional.
 * By becoming a CEFI member, you also become an <a href="https://ecoforecast.org/" target="_blank">EFI member</a>.
-* Once registered, you will be listed in the CEFI (coming soon) and <a href="https://ecoforecast.org/member-profiles/" target="_blank">EFI members directory</a>.
+* There is no fee for registering as a member. 
+* Once registered, you will be listed in the members directories for CEFI (coming soon) and <a href="https://ecoforecast.org/member-profiles/" target="_blank">EFI</a>.
 * Once registered, you will receive an EFI mug as a gift in the mail.
 </div>
 
