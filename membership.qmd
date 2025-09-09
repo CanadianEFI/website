@@ -26,16 +26,16 @@ What you get
 
 </div>
 
-| Benefits                              | Anyone | Subscribers | Members |
-|---------------------------------------|:------:|:-----------:|:-------:|
-| Access to conferences & events        | x      | x           | x       |
-| Regular newsletter                    |        | x           | x       |
-| Registration discounts                |        |             | x       |
-| Access to Slack groups                |        |             | x       |
-| Participation in working groups       |        |             | x       |
-| Vote in steering committee elections  |        |             | x       |
-| Run in steering committee elections   |        |             | x       |
-| Entry in the members directory        |        |             | x       |
+| Benefits                                           | Anyone | Subscribers | Members |
+|----------------------------------------------------|:------:|:-----------:|:-------:|
+| Access to conferences & events                     | x      | x           | x       |
+| Regular newsletter                                 |        | x           | x       |
+| Registration discounts                             |        |             | x       |
+| Access to Slack groups                             |        |             | x       |
+| Participation in working groups                    |        |             | x       |
+| Vote in steering committee elections               |        |             | x       |
+| Eligibility to run in steering committee elections |        |             | x       |
+| Entry in the members directory                     |        |             | x       |
 
 <div class=content-left>
 
@@ -68,7 +68,7 @@ border-radius: 20px;">
 <h1 style="font-size: calc(1.25rem + 0.30vw); padding: 0 0 0 1rem;">
 Join CEFI today
 </h1>
-<p style="padding: 0 0 0 1rem;">Let's build and strengthen a Canadian ecological forescating community of practive together.</p>
+<p style="padding: 0 0 0 1rem;">Let's build and strengthen a Canadian ecological forescating community of practice together.</p>
 <a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi" target="_blank">
 <button class=btn>Become a member</button></a>
 </div>
