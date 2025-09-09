@@ -43,7 +43,7 @@ What you get
 What you offer
 </h1>
 
-By becoming a member of CEFI, you affirm commitment to <a href="http://ecoforecast.org/shared-values-and-principles/">EFI's Shared Values & Operating Principles and Procedures</a> and interest in building a community of practice around ecological forecasts.
+By becoming a member of CEFI, you affirm commitment to <a href="http://ecoforecast.org/shared-values-and-principles/" target="_blank">EFI's Shared Values & Operating Principles and Procedures</a> and interest in building a community of practice around ecological forecasts.
 
 <h1 style="font-size: calc(1.25rem + 0.30vw); padding-bottom: 0;">
 How it works
@@ -69,7 +69,7 @@ border-radius: 20px;">
 Join CEFI today
 </h1>
 <p style="padding: 0 0 0 1rem;">Let's build and strengthen a Canadian ecological forescating community of practive together.</p>
-<a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi">
+<a href="https://nd.qualtrics.com/jfe/form/SV_5j6DIIwitmGJhoW?source=canadian-efi" target="_blank">
 <button class=btn>Become a member</button></a>
 </div>
 
@@ -78,7 +78,7 @@ Join CEFI today
 Not ready to commit yet?
 </h1>
 <p style="padding: 0 0 0 1rem;">You can still stay connected. Subscribe to the CEFI mailing list for news and updates on upcoming initiatives.</p>
-<a href="https://canadianefi.ca/subscribe.html" target="_blank">
+<a href="https://canadianefi.ca/subscribe.html">
 <button class=btn>Subscribe</button></a>
 </div>
 
