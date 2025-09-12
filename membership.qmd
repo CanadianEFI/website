@@ -26,16 +26,18 @@ What you get
 
 </div>
 
+::: {.custom-table}
 | Benefits                                           | Anyone | Subscribers | Members |
 |----------------------------------------------------|:------:|:-----------:|:-------:|
 | Access to conferences & events                     | x      | x           | x       |
+| Participation in working groups                    | x      | x           | x       |
 | Regular newsletter                                 |        | x           | x       |
 | Registration discounts                             |        |             | x       |
 | Access to Slack groups                             |        |             | x       |
-| Participation in working groups                    |        |             | x       |
 | Vote in steering committee elections               |        |             | x       |
 | Eligibility to run in steering committee elections |        |             | x       |
 | Entry in the members directory                     |        |             | x       |
+:::
 
 <div class=content-left>
 
@@ -56,7 +58,7 @@ How to become a member
 * Registered members can select to receive an EFI mug as a gift in the mail.
 </div>
 
-<div class="gallery">
+<div class="gallery-responsive">
 
 <div 
 class="two-column-gallery" 

@@ -8,7 +8,6 @@ backgroundcolor: rgb(245, 245, 245)
   .quarto-title-banner {
     height: 400px;
     text-align: center;
-    color: #111; 
   }
 </style>
 

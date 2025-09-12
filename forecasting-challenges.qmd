@@ -8,7 +8,6 @@ permalink: forecasting-challenges
 <style>
   .quarto-title-banner {
     height: 400px;
-    color: #111; 
     text-align: center;
   }
 

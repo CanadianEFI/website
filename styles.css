@@ -32,7 +32,8 @@
   height: 550px;
   padding-left: 1.5rem;
   padding-bottom: 2rem;
-  color: #fefefe; 
+  color: #fefefe;
+  text-shadow: 2px 2px #080808; 
   text-align: right;
   align-items: center;
   margin-bottom: 0;
@@ -141,9 +142,18 @@
   font-family: 'Varela';
 }
 
+.custom-table {
+  font-family: 'Varela';
+}
+
 /* images */
 
 .gallery {
+  display: flex;
+  padding-top: 24px;
+}
+
+.gallery-responsive {
   display: flex;
   padding-top: 24px;
 }
@@ -197,6 +207,10 @@ input:focus {
   .container-poster {
     right: 50% !important;
     transform: translate(+50%, -50%) !important;
+  }
+  .gallery-responsive {
+    flex-direction: column;
+    flex-wrap: wrap;
   }
 }
 
