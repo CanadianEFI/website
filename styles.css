@@ -41,6 +41,9 @@
   background-position: bottom;
 }
 
+.quarto-title .title {
+    color: rgb(245, 245, 245);
+  }
 
 
 /* containers */
