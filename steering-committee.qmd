@@ -50,7 +50,7 @@ Korryn is interested in combining near-term forecasting with One Health to predi
 <div class="three-image-gallery">
 <img src="_assets\members\firkowski.jpg" style="width: 100%; padding-bottom: 12px">
 <br><a href="https://www.linkedin.com/in/carinafirkowski" target="_blank">Carina Firkowski</a><br>
-ApexRMS<br>
+Independent consultant<br>
 Co-chair & Website sub-committee<br>
 <br>
 Carina is an ecologist interested in conservation and modeling applied to decision-making contexts. Her work focuses on modeling ecological connectivity and habitat prioritization in face of human induced land cover and climate change to inform management decisions.
