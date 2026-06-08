@@ -5,7 +5,7 @@ project:
 website:
   title: "CEFI"
   announcement:
-    content: The EFI annual conference is coming to Toronto in 2026. Save the date for August 4-7, 2026 and find more details <a href="https://ecoforecast.org/efi-2026-conference/">here</a>. 
+    content: The EFI annual conference is coming to Toronto in 2026. Save the date for August 4-7, 2026 and find more details <a href="https://projects.ecoforecast.org/meetings.ecoforecast/">here</a>. 
     dismissable: false
     type: info
     position: below-navbar
