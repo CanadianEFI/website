@@ -16,8 +16,21 @@ permalink: home
 
 <div class=content-center>
 
-# Welcome to CEFI
-We are a grassroots organization on a mission to build capacity in Canada for generating ecological and epidemiological forecasts aimed at informing decisions. We strive to create and maintain a positive and supportive network of people across academia, industry, NGOs and government who have the common goals to advance basic science, increase data sharing, connect forecasts to decision-making, and improve how we model in an uncertain future.
+<div class=container-image-text
+style='align-items: center;'>
+
+  <div style='float: top;'>
+  <h1 style="font-size: calc(1.5rem + 0.30vw);
+  padding-top: 0;">
+  Welcome to CEFI
+  </h1>
+  We are a grassroots organization on a mission to build capacity in Canada for generating ecological and epidemiological forecasts aimed at informing decisions. We strive to create and maintain a positive and supportive network of people across academia, industry, NGOs and government who have the common goals to advance basic science, increase data sharing, connect forecasts to decision-making, and improve how we model in an uncertain future.
+  </div>
+
+  <img src='_assets/logos/cefi-logo.png'
+  style='float: left; height: 300px; margin: 1rem;'>
+</div>
+
 
 <br/>
 
@@ -27,7 +40,7 @@ We are a grassroots organization on a mission to build capacity in Canada for ge
 style='align-items: center;'>
 
   <img src='_assets/logos/EFI-logo.png'
-  style='float: right; height: 250px; margin: 1rem;'>
+  style='float: right; height: 200px; margin: 1rem;'>
 
   <div style='float: bottom;'>
   **CEFI** is the very first chapter of the Ecological Forecasting Initiative. Visit EFI for information on working groups, workshops, educational tools and other resources related to ecological forecasting.
