@@ -5,11 +5,11 @@ project:
 website:
   title: "CEFI"
   favicon: _assets/icons/favicon.png
-  announcement:
-    content: The EFI annual conference is coming to Toronto in 2026. Save the date for August 4-7, 2026 and find more details <a href="https://projects.ecoforecast.org/meetings.ecoforecast/">here</a>. 
-    dismissable: false
-    type: info
-    position: below-navbar
+#  announcement:
+#    content: The EFI annual conference is coming to Toronto in 2026. Save the date for August 4-7, 2026 and find more details <a href="https://projects.ecoforecast.org/meetings.ecoforecast/">here</a>. 
+#    dismissable: false
+#    type: info
+#    position: below-navbar
   navbar:
     left:
       - href: index.qmd
@@ -17,6 +17,9 @@ website:
       - forecasting-challenges.qmd
       - text: Past events 
         menu:
+        - text: EFI 2026 Conference
+          href: https://projects.ecoforecast.org/meetings.ecoforecast
+          target: _blank
         - summer-school-2023.qmd 
         - ESA-CSEE-symposium-2022.qmd
         - CIEE-working-group-2020.qmd
