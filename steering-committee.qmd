@@ -126,21 +126,15 @@ Eliot is a Research Scientist with Natural Resources Canada and the Canadian For
 <br>
 </div>
 </div>
+
+<div class="content-center">
+<p style="font-size: calc(1.25rem + 0.30vw); font-weight: 600;">
+Past Members</p>
 </div>
 
 <div class="content-left">
-<div class="gallery">
-<div class="three-image-gallery">
-<img src="_assets\members\edwards.jpg" style="width: 100%; padding-bottom: 12px">
-<br><a href="http://brandonedwards.ca" target="_blank">Brandon Edwards</a></u><br>
-Ducks Unlimited Canada<br>
-<br>
-Brandon is an ecological statistician who works with a variety of datasets across scales to make conservation decisions that affect both people and nature.</div>
-<div class="three-image-gallery">
-</div>
-<div class="three-image-gallery">
-</div>
-</div>
+<ul>
+<li><a href="http://brandonedwards.ca" target="_blank">Brandon Edwards</a>, Ducks Unlimited Canada (10/2025 to 08/2026)</li>
 </div>
 
 <br>
